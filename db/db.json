@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "szanyi",
+      "email": "s@gmail.com"
+    },
+    {
+      "name": "péter",
+      "email": "p@gmail.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Big Winnetou",
+      "email": "géza@gmail.com"
+    },
+    {
+      "name": "hjklé",
+      "email": "m,.é-á",
+      "id": 5
+    }
+  ],
+  "comments": []
+}
